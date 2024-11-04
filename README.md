@@ -1,2 +1,2 @@
 # AuthZero
-Auth0 learnings
+Auth0 learnings and master folder
